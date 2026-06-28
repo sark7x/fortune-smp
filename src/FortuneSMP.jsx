@@ -16,7 +16,7 @@ import {
               rather than a stock screenshot.
 ----------------------------------------------------------------*/
 
-const DISCORD_URL = "https://discord.gg/KVa53ur5ZN";
+const DISCORD_URL = "https://discord.gg/XThaPgmzzD";
 const JAVA_IP = "fortunesmp.mcsh.io";
 const BEDROCK_IP = "fortunesmp.mcsh.io";
 const BEDROCK_PORT = "19132";
